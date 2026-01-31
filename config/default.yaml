@@ -1,0 +1,16 @@
+data:
+  utsa_catalog_urls:
+    # Carlos Alvarez College of Business (umbrella)
+    business_all: https://catalog.utsa.edu/undergraduate/business/#courseinventory
+
+    # Carlos Alvarez College of Business (by department)
+    accounting: https://catalog.utsa.edu/undergraduate/business/accounting/#courseinventory
+    economics: https://catalog.utsa.edu/undergraduate/business/economics/#courseinventory
+    finance: https://catalog.utsa.edu/undergraduate/business/finance/#courseinventory
+    management: https://catalog.utsa.edu/undergraduate/business/management/#courseinventory
+    marketing: https://catalog.utsa.edu/undergraduate/business/marketing/#courseinventory
+    operations_analytics: https://catalog.utsa.edu/undergraduate/business/operationsanalytics/#courseinventory
+
+    # College of AI, Cyber & Computing
+    information_systems_cybersecurity: https://catalog.utsa.edu/undergraduate/aicybercomputing/informationsystemscybersecurity/#courseinventory
+    statistics_data_science: https://catalog.utsa.edu/undergraduate/aicybercomputing/statisticsdatascience/#courseinventory

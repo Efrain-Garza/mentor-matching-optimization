@@ -1,0 +1,7 @@
+data:
+  catalog_scope: undergraduate_full
+  base_url: https://catalog.utsa.edu/undergraduate/
+
+  # Entry point for full undergraduate catalog crawl
+  utsa_catalog_urls:
+    undergraduate_all: https://catalog.utsa.edu/undergraduate/
