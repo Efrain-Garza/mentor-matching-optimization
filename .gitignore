@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Data artifacts (keep raw data out of Git)
+data/cleaned/
+data/features/
+data/reports/
+data/solutions/
+
+# Jupyter
+.ipynb_checkpoints/
