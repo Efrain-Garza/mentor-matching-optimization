@@ -9,12 +9,16 @@ __pycache__/
 env/
 venv/
 
+# direnv
+.envrc
+
 # OS / editor
 .DS_Store
 .vscode/
 .idea/
 
-# Data artifacts (keep raw data out of Git)
+# Data (never commit real data)
+data/raw/
 data/cleaned/
 data/features/
 data/reports/
@@ -22,3 +26,6 @@ data/solutions/
 
 # Jupyter
 .ipynb_checkpoints/
+notebooks/*.feather
+notebooks/*.parquet
+notebooks/*.csv
