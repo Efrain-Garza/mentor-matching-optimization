@@ -29,3 +29,11 @@ data/solutions/
 notebooks/*.feather
 notebooks/*.parquet
 notebooks/*.csv
+
+# Python / environment
+.python-version
+.venv/
+
+# Generated outputs
+outputs/figures/
+outputs/tables/
